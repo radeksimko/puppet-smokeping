@@ -1,7 +1,7 @@
 ## Smokeping Puppet Module
 
-Module for installing and configuring [Smokeping](http://oss.oetiker.ch/smokeping/)
-- tool for monitoring the latency of your network.
+Module for installing and configuring [Smokeping](http://oss.oetiker.ch/smokeping/),
+tool for monitoring the latency of your network.
 
 ### Testing
 
